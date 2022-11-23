@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @venu284
-- 👀 I’m interested in cyber security
+- 👋 Hi, I’m venu dattathreya vemuru
+- 👀 I’m interested in learning security applications
 - 🌱 I’m currently pursuing my bachelors
 - 📫 How to reach me venuvemuru03@gmail.com
 
